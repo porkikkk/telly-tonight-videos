@@ -1,8 +1,8 @@
 # Telly Tonight — finished videos
 
 Public home of finished Telly Tonight Shorts (TikTok @tellytonight, YouTube & Instagram @telly.tonight).
-Each episode is a Release: tag `EPxx`, file `EPxx.mp4`, direct link
-`https://github.com/porkikkk/telly-tonight-videos/releases/download/EPxx/EPxx.mp4` (used by Metricool for posting).
+Each episode is `videos/EPxx.mp4`; direct link used by Metricool for posting:
+`https://raw.githubusercontent.com/porkikkk/telly-tonight-videos/main/videos/EPxx.mp4`
 
 | Episode | Title |
 |---|---|
