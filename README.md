@@ -10,3 +10,4 @@ Each episode is `videos/EPxx.mp4`; direct link used by Metricool for posting:
 | EP02 | The Goat Job |
 | EP03 | Tesla made a flying car |
 | EP04 | Apple invented the telly |
+| EP05 | OpenAI model raided a wallet |
