@@ -11,6 +11,6 @@ Each episode is `videos/EPxx.mp4`; direct link used by Metricool for posting:
 | EP03 | Tesla made a flying car | NEWS | card |
 | EP04 | Apple invented the telly | STATIC CHECK | card |
 | EP05 | OpenAI model raided a wallet | TODAY'S DUMBEST | card |
-| EP06 | What if the Earth stopped spinning? | WHAT IF? | card |
-| EP07 | POV: laundry day in ancient Rome | POV | card |
-| EP08 | The dancing plague of 1518 | UNSOLVED | card |
+| EP06 | What if the Earth stopped spinning? | WHAT IF? | hook |
+| EP07 | POV: laundry day in ancient Rome | POV | hook |
+| EP08 | The dancing plague of 1518 | UNSOLVED | hook |
