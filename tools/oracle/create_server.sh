@@ -11,7 +11,7 @@ say "Tenancy: ${T:0:30}..."
 
 # SSH key that lives in Cloud Shell (you never need to download it)
 mkdir -p ~/.ssh
-[ -f ~/.ssh/telly ] || ssh-keygen -q -t ed25519 -N "" -f ~/.ssh/telly -C telly-server
+[ -f ~/.ssh/telly ] || ssh-keygen -q -t rsa -b 4096 -N "" -f ~/.ssh/telly -C telly-server  # RSA: Cloud Shell runs in FIPS mode (no ed25519)
 
 # --- network: VCN + internet gateway + public subnet (SSH open, like Oracle's default) ---
 VCN=$(oci network vcn list -c "$T" --display-name telly-vcn --query 'data[0].id' --raw-output 2>/dev/null || true)
