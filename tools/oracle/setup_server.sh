@@ -6,9 +6,19 @@ set -euo pipefail
 say() { printf '\n\033[1;32m== %s\033[0m\n' "$*"; }
 export DEBIAN_FRONTEND=noninteractive
 
+# A fresh Ubuntu VM runs its own automatic updates first and holds the apt lock for a few minutes.
+sudo systemctl stop unattended-upgrades apt-daily.service apt-daily-upgrade.service 2>/dev/null || true
+wait_apt() {
+  while sudo fuser /var/lib/dpkg/lock-frontend /var/lib/dpkg/lock /var/lib/apt/lists/lock >/dev/null 2>&1; do
+    echo "   waiting for Ubuntu's own updates to finish..."; sleep 10
+  done
+}
+APT="sudo -E apt-get -o DPkg::Lock::Timeout=900"
+
 say "System packages"
-sudo -E apt-get update -q
-sudo -E apt-get install -y -q git curl jq unzip ffmpeg python3-pip python3-venv xvfb \
+wait_apt
+$APT update -q
+$APT install -y -q git curl jq unzip ffmpeg python3-pip python3-venv xvfb \
      fonts-dejavu fonts-noto-color-emoji fonts-liberation
 
 if ! sudo swapon --show | grep -q /swapfile; then
@@ -19,6 +29,7 @@ fi
 
 say "Playwright + Chromium (TikTok Studio)"
 sudo pip3 install -q --break-system-packages playwright==1.55.0
+wait_apt
 sudo python3 -m playwright install-deps chromium
 python3 -m playwright install chromium
 
@@ -29,6 +40,7 @@ if [ ! -f "$RUNNER/.runner" ]; then
   V=$(curl -s https://api.github.com/repos/actions/runner/releases/latest | jq -r .tag_name | sed 's/^v//')
   curl -sL -o r.tgz "https://github.com/actions/runner/releases/download/v$V/actions-runner-linux-arm64-$V.tar.gz"
   tar xzf r.tgz && rm r.tgz
+  wait_apt
   sudo ./bin/installdependencies.sh >/dev/null
   echo
   echo "Paste the token from GitHub (telly-tonight-kit → Settings → Actions → Runners → New self-hosted runner,"
