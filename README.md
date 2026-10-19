@@ -15,3 +15,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. Oles posts t
 | EP06 | What if the Earth stopped spinning? | WHAT IF? | hook | 2026-10-18 18:00 (posted by hand on all 3 networks) |
 | EP07 | POV: laundry day in ancient Rome | POV | hook | 2026-10-18 10:00 |
 | EP08 | The dancing plague of 1518 | UNSOLVED | hook | 2026-10-19 10:00 |
+| EP09 | Could you survive a rip current? | COULD YOU SURVIVE? | hook | 2026-10-19 16:00 |
