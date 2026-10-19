@@ -1,7 +1,7 @@
 # Telly Tonight — finished videos
 
 Public home of finished Telly Tonight Shorts (TikTok @tellytonight, YouTube & Instagram @telly.tonight).
-Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. Oles posts them himself on all three networks (manual posting since 18 Oct 2026).
+Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are published automatically (since 19 Oct 2026) by the publisher in the private kit repo: YouTube and Instagram from GitHub Actions, TikTok from the Oracle server in London; Oles gets one Telegram summary per episode. `reserve/` holds finished videos without a date.
 
 `Post (UK)` = the day and time Oles was told to post it (Europe/London). The daily episode tasks count rows with today's date to keep to 2 videos a day.
 
