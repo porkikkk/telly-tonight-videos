@@ -17,4 +17,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP08 | The dancing plague of 1518 | UNSOLVED | hook | 2026-10-19 10:00 |
 | EP10 | Could you survive the Great Fire of London? (Part 1) | COULD YOU SURVIVE? | hook | 2026-10-19 16:00 |
 | EP11 | Could you survive the Great Fire of London? (Part 2) | COULD YOU SURVIVE? | hook | 2026-10-20 16:00 |
-| EP12 | Trial by ordeal: guilty? hold this red-hot iron | HOW IT REALLY WORKED | hook | 2026-10-20 19:00 |
+| EP12 | Trial by ordeal: guilty? hold this red-hot iron | HOW IT REALLY WORKED | hook | 2026-10-20 19:00 (re-posted 20:50 as videos/EP12v2.mp4: fixed captions) |
