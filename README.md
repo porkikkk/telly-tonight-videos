@@ -20,3 +20,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP12 | Trial by ordeal: guilty? hold this red-hot iron | HOW IT REALLY WORKED | hook | 2026-10-20 19:00 (re-posted 20:50 as videos/EP12v2.mp4: fixed captions) |
 | EP13 | Cleopatra lived closer to the Moon landing than to the pyramids | WEIRD FACTS | hook | 2026-10-21 16:00 |
 | EP14 | The paperclip nobody wanted | REST IN PIXELS | hook | 2026-10-21 19:00 |
+| EP15 | What if the Sun disappeared? | WHAT IF? | hook | 2026-10-22 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
