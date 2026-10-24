@@ -24,3 +24,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP16 | POV: you're a plague doctor | POV | hook | 2026-10-22 21:00 |
 | EP17 | What if the Moon disappeared? | WHAT IF? | hook | 2026-10-23 YouTube 16:00, Instagram 17:00, TikTok 18:00 |
 | EP18 | The book nobody can read (Voynich manuscript) | UNSOLVED | hook | 2026-10-23 YouTube 21:00, Instagram 21:00, TikTok 21:00 |
+| EP19 | Could you survive a plane landing on the Hudson? | COULD YOU SURVIVE? | hook | 2026-10-24 16:00 |
