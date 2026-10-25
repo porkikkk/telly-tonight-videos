@@ -26,3 +26,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP18 | The book nobody can read (Voynich manuscript) | UNSOLVED | hook | 2026-10-23 YouTube 21:00, Instagram 21:00, TikTok 21:00 |
 | EP19 | Could you survive a plane landing on the Hudson? | COULD YOU SURVIVE? | hook | 2026-10-24 16:00 |
 | EP20 | What if the internet shut down for a day? | WHAT IF? | hook | 2026-10-24 19:00 |
+| EP21 | Google felled 250,000 trees before the paperwork (Finland) | TODAY'S DUMBEST | hook | 2026-10-25 16:00 |
