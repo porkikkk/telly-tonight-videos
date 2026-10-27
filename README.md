@@ -29,3 +29,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP21 | Google felled 250,000 trees before the paperwork (Finland) | TODAY'S DUMBEST | hook | 2026-10-25 16:00 |
 | EP22 | What if all the ice on Earth melted? | WHAT IF? | hook | 2026-10-26 19:00 (moved from 25 Oct: approved late) |
 | EP23 | 318 million bricks: the Great Stink of 1858 (Bazalgette) | HOW IT REALLY WORKED | hook | 2026-10-26 YouTube 16:00, Instagram 16:00, TikTok 16:00 |
+| EP24 | 8 billion people vanish overnight | WHAT IF? | hook | 2026-10-27 16:00 |
