@@ -34,3 +34,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP26 | 38 minutes: the shortest war in history (Zanzibar, 1896) | WEIRD FACTS | hook | 2026-10-28 16:00 |
 | EP27 | 75% of crops need pollinators: what if all insects disappeared? | WHAT IF? | hook | 2026-10-29 19:00 (moved from 28 Oct: approved late) |
 | EP28 | 72 seconds: the Wow! signal (1977) | UNSOLVED | hook | 2026-10-29 16:00 |
+| EP29 | 1,000 km³ of ash: what if the Yellowstone supervolcano erupted? | WHAT IF? | hook | 2026-10-30 YouTube 16:00, Instagram 17:00, TikTok 18:00 |
