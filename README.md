@@ -39,3 +39,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP31 | $5.3 billion: the Samsung Galaxy Note 7 | REST IN PIXELS | hook | 2026-10-31 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
 | EP32 | 1096: Oxford is older than the Aztec capital | WEIRD FACTS | hook | 2026-11-01 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
 | EP33 | 8x stronger tides: what if the Moon were twice as close? | WHAT IF? | hook | 2026-11-02 YouTube 19:00 (slot_test: youtube 19:00, was 16:00), Instagram 18:00, TikTok 18:00 |
+| EP34 | 46,096 Cybertrucks recalled: panels that fall off | TODAY'S DUMBEST | hook | 2026-11-02 22:00 (all networks) |
