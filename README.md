@@ -43,3 +43,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP35 | 400 km/s: what if Earth's magnetic field vanished? | WHAT IF? | hook | 2026-11-03 21:00 (all networks) |
 | EP36 | 4 seats: US midterms, who won (AP projection) | THE BLITZ | hook | 2026-11-04 11:00 (all networks, urgent: news is hot) |
 | EP37 | 9,860 bullets: the Emu War (1932) | WEIRD FACTS | hook | 2026-11-04 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
+| EP38 | 550 light-years: what if Betelgeuse exploded? | WHAT IF? | hook | 2026-11-05 18:00 (all networks) |
