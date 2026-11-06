@@ -45,3 +45,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP37 | 9,860 bullets: the Emu War (1932) | WEIRD FACTS | hook | 2026-11-04 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
 | EP38 | 550 light-years: what if Betelgeuse exploded? | WHAT IF? | hook | 2026-11-05 18:00 (all networks) |
 | EP39 | $1.75 billion: Quibi, dead in 8 months | REST IN PIXELS | hook | 2026-11-06 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
+| EP40 | $2.6 trillion: what if a Carrington solar storm hit today? | WHAT IF? | hook | 2026-11-06 21:00 (all networks) |
