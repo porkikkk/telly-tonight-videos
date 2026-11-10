@@ -49,3 +49,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP41 | 2,140 men: the Pig War (1859) | WEIRD FACTS | hook | 2026-11-07 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
 | EP42 | $327.6 million: NASA's pounds-vs-newtons Mars orbiter | HOW IT REALLY WORKED | hook | 2026-11-08 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
 | EP43 | 100+ outlets: McDonald's AI drive-thru and nine sweet teas | REST IN PIXELS | hook | 2026-11-09 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
+| EP44 | 8 min 20 s: what if the Sun became a black hole? | WHAT IF? | hook | 2026-11-10 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
