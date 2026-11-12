@@ -51,3 +51,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP43 | 100+ outlets: McDonald's AI drive-thru and nine sweet teas | REST IN PIXELS | hook | 2026-11-09 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
 | EP44 | 8 min 20 s: what if the Sun became a black hole? | WHAT IF? | hook | 2026-11-10 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
 | EP45 | 1889: Nintendo made playing cards | WEIRD FACTS | hook | 2026-11-11 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
+| EP46 | 10 km: what if the dinosaur asteroid hit today? | WHAT IF? | hook | 2026-11-12 YouTube 18:00, Instagram 18:00, TikTok 18:00 |
