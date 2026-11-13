@@ -53,4 +53,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP45 | 1889: Nintendo made playing cards | WEIRD FACTS | hook | 2026-11-11 YouTube 16:00, Instagram 18:00, TikTok 18:00 |
 | EP46 | 10 km: what if the dinosaur asteroid hit today? | WHAT IF? | hook | 2026-11-12 YouTube 18:00, Instagram 18:00, TikTok 18:00 |
 | EP47 | 13 years: GTA 6 release day (known-date, queue 19 Nov after check) | STATIC CHECK | hook | 2026-11-19 18:00 (all networks) |
-| EP47 | $7.6 billion: Microsoft wrote off Nokia (Windows Phone) | REST IN PIXELS | hook | 2026-11-13 YouTube 18:00, Instagram 18:00, TikTok 18:00 |
+| EP48 | $7.6 billion: Microsoft wrote off Nokia (Windows Phone) | REST IN PIXELS | hook | 2026-11-13 YouTube 18:00, Instagram 18:00, TikTok 18:00 |
