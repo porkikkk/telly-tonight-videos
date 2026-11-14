@@ -55,3 +55,4 @@ Each episode is `videos/EPxx.mp4` with its cover `covers/EPxx.jpg`. They are pub
 | EP47 | 13 years: GTA 6 release day (known-date, queue 19 Nov after check) | STATIC CHECK | hook | 2026-11-19 18:00 (all networks) |
 | EP48 | $7.6 billion: Microsoft wrote off Nokia (Windows Phone) | REST IN PIXELS | hook | 2026-11-13 YouTube 18:00, Instagram 18:00, TikTok 18:00 |
 | EP49 | 4+ hours: the FAA grounded every US flight (🚨 trend, urgent) | THE BLITZ | hook | 2026-11-14 12:00 (all networks, urgent: news is hot) |
+| EP50 | 10,000+ satellites: what if every satellite switched off? | WHAT IF? | hook | 2026-11-14 18:00 (all networks) |
